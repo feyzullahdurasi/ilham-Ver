@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		651FC5612C229C5E00A4B9B7 /* LoginSayfa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651FC5602C229C5E00A4B9B7 /* LoginSayfa.swift */; };
+		651FC5632C22A25200A4B9B7 /* YemekTarifi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651FC5622C22A25200A4B9B7 /* YemekTarifi.swift */; };
 		65C981E52C21EE4F004C0826 /* ilham_VerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C981E42C21EE4F004C0826 /* ilham_VerApp.swift */; };
 		65C981E72C21EE4F004C0826 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C981E62C21EE4F004C0826 /* ContentView.swift */; };
 		65C981E92C21EE50004C0826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65C981E82C21EE50004C0826 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		651FC5602C229C5E00A4B9B7 /* LoginSayfa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginSayfa.swift; sourceTree = "<group>"; };
+		651FC5622C22A25200A4B9B7 /* YemekTarifi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YemekTarifi.swift; sourceTree = "<group>"; };
 		65C981E12C21EE4F004C0826 /* ilham Ver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ilham Ver.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65C981E42C21EE4F004C0826 /* ilham_VerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ilham_VerApp.swift; sourceTree = "<group>"; };
 		65C981E62C21EE4F004C0826 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				65C981E42C21EE4F004C0826 /* ilham_VerApp.swift */,
 				651FC5602C229C5E00A4B9B7 /* LoginSayfa.swift */,
 				65C981E62C21EE4F004C0826 /* ContentView.swift */,
+				651FC5622C22A25200A4B9B7 /* YemekTarifi.swift */,
 				65C981E82C21EE50004C0826 /* Assets.xcassets */,
 				65C981EA2C21EE50004C0826 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				651FC5612C229C5E00A4B9B7 /* LoginSayfa.swift in Sources */,
 				65C981E72C21EE4F004C0826 /* ContentView.swift in Sources */,
+				651FC5632C22A25200A4B9B7 /* YemekTarifi.swift in Sources */,
 				65C981E52C21EE4F004C0826 /* ilham_VerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
