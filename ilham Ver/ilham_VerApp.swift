@@ -11,7 +11,7 @@ import SwiftUI
 struct ilham_VerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginSayfa()
         }
     }
 }
